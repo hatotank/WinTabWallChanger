@@ -28,19 +28,19 @@ Windowsタブレット壁紙変更アプリ
 4. 以上
 
 
-*補足*  
+**補足**  
 動作していれば、タスクトレイにアイコンが登録されます。
 ２回目の起動からはwtwc.iniから設定を読込ますので、設定画面がスキップされ、そのままタスクトレイに格納されます。  
 ![wtwc005](https://github.com/hatotank/WinTabWallChanger/blob/media/wtwc005.png)
 
 
-*補足2*  
+**補足2**  
 右クリックでメニューが出ます。
 上から、傾きの検出間隔時間、壁紙の再設定(1.と2.の登録画面が出ます)、バージョン情報、プログラムの終了となります。  
 ![wtwc006](https://github.com/hatotank/WinTabWallChanger/blob/media/wtwc006.png)
 
 
-*補足3*  
+**補足3**  
 検出間隔は３種類から選べます(デフォルトは500ms)  
 ![wtwc007](https://github.com/hatotank/WinTabWallChanger/blob/media/wtwc007.png)
 
