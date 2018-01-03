@@ -1,5 +1,6 @@
 # WinTabWallChanger
 Windowsタブレット壁紙変更アプリ
+- [ダウンロード](https://github.com/hatotank/WinTabWallChanger/releases)
 
 ## 概要
 タブレットの向きに応じて壁紙を変更するアプリです。
